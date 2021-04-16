@@ -50,4 +50,4 @@ The :license_shortname. Please see [License File](LICENSE.md) for more informati
 
 ## PHP Package Boilerplate
 
-This package was generated using the [PHP Package Boilerplate](https://laravelpackageboilerplate.com).
+This package was generated using the [PHP Package Boilerplate](https://laravelpackageboilerplate.com) by [Beyond Code](http://beyondco.de/).
